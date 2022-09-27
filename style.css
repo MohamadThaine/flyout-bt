@@ -24,6 +24,7 @@
     font-size: 14px;
     color: #fff;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .Navigate img{
@@ -68,7 +69,7 @@
 }
 
 .Navigate .NaviItems:hover .SubItems{
-    left: 102px;
+    left: 100px;
 }
 
 .circle{
